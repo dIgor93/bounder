@@ -1,0 +1,22 @@
+#main_bar {
+    float: left;
+    margin: 0 auto;
+}
+
+#info_bar {
+    background: cadetblue;
+    float: right ;
+    height: available;
+    margin: 0 auto;
+}
+
+#json_info {
+    margin: 10px;
+}
+#inp {
+    width: 200px;
+}
+p {
+    margin: 10px;
+    text-align: center
+}
