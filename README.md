@@ -11,3 +11,7 @@
 ```
 python main.py
 ```
+или через докер:
+```
+docker-compose up --build
+```
